@@ -1,8 +1,8 @@
 Exception: list index out of range
 Function: fun_5 call 1
-Timestamp: 1631478355.972939
+Timestamp: 2021-09-12 23:50:05.573241
 
 Exception: unsupported operand type(s) for +: 'int' and 'str'
 Function: fun_6 call 1
-Timestamp: 1631478355.973084
+Timestamp: 2021-09-12 23:50:05.573492
 

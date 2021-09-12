@@ -1,4 +1,5 @@
 import time
+from datetime import datetime
 
 
 def decorator_4(fun):
@@ -10,7 +11,7 @@ def decorator_4(fun):
             with open("log_file.txt", 'a') as file:
                 file.write("Exception: " + str(exc) + "\n")
                 file.write("Function: " + fun.__name__ + " call " + str(wrapper.counter) + "\n")
-                file.write("Timestamp: " + str(time.time()) + "\n\n")
+                file.write("Timestamp: " + str(datetime.now()) + "\n\n")
 
         return result
 
