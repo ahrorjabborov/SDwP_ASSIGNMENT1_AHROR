@@ -7,7 +7,7 @@ Ahror Jabborov
 
 SDwP Assignment 1
 
-
+```
 ├── src              <- directory for source files 
 |    ├── main.py     <- driver program file 
 |    ├── task1.py    <- task 1 implemented here 
@@ -17,4 +17,4 @@ SDwP Assignment 1
 ├── log_file.txt
 ├── task3text.txt
 └── Readme.md
-
+```
