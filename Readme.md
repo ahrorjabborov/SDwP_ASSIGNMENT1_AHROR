@@ -7,6 +7,7 @@ Ahror Jabborov
 
 SDwP Assignment 1
 
+Structure
 ```
 ├── src              <- directory for source files 
 |    ├── main.py     <- driver program file 
@@ -18,3 +19,6 @@ SDwP Assignment 1
 ├── task3text.txt
 └── Readme.md
 ```
+
+Run
+open main.py and run. 
